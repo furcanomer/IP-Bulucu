@@ -21,7 +21,7 @@ Bu yüzden kendimi yeniden başlattım.
     
 GenelHata = 0
 while(True):
-    os.system("cls")
+    os.system("clear") # eğer Windows için derleyecekseniz "cls" olarak değiştirin.
     print("""****************************************************************************
 IP Bulucu 1.0
         
